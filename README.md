@@ -10,6 +10,12 @@ This repository organizes **slides**, **exercises**, and **hands-on** for each s
 - **Code exercises** to practice concepts taught in lectures.  
 
 ---
+## Competition 
+
+[Link](https://www.kaggle.com/t/2e0426a7053f480ca010f13b6652bd12)
+
+---
+
 
 ## 📅 Session Schedule  
 
