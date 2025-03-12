@@ -10,13 +10,19 @@ This repository organizes **slides**, **exercises**, and **hands-on** for each s
 - **Code exercises** to practice concepts taught in lectures.  
 
 ---
+## Competition 
+
+[Link](https://www.kaggle.com/t/2e0426a7053f480ca010f13b6652bd12)
+
+---
+
 
 ## 📅 Session Schedule  
 
 | Week        | Topic                                      | Slides       |
 |-------------|--------------------------------------------|--------------|
 | Feb 19 @ 6:00 | **Foundations of Machine Learning**: Intro to ML + Data Preprocessing | [Slides](https://docs.google.com/presentation/d/1eDOHz1y07y-Ob9UcLB6v0Cbw-wTAVAHUvc__yya-LXc/edit?usp=sharing)  |
-| Mar 05 @ 4:00 | **Linear Regression**: Theory, Implementation, and Evaluation       | [Soon](https://github.com/AUB-ACM-AI/Beginner-Track)  |
+| Mar 05 @ 4:00 | **Linear Regression**: Theory, Implementation, and Evaluation       | [Slides](https://docs.google.com/presentation/d/1J9hFfm0wDJfSUOcBjrPGBbjn_yv4leGFD88tcjnEA1c/edit?usp=sharing)  |
 | Mar 12 @ 4:00 | **Classification & Kaggle Competition**: Logistic Regression and Competition Kickoff | [Soon](https://github.com/AUB-ACM-AI/Beginner-Track)  |
 | Coming Soon | **Topic to be Announced**                  | [Soon](https://)  |
 
